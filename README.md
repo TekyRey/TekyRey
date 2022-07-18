@@ -62,6 +62,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/T
 [<img align="left" alt="TekyRey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TekyRey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TekyRey | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="TekyRey | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br/>
 
@@ -77,4 +78,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [twitter]: https://twitter.com/RehemaMwaka1
 [linkedin]: https://www.linkedin.com/mwlite/in/rehema-mwaka-48a1801ab
 [github]: https://www.github.com/TekyRey
+[gmail]: https://www.github.com/TekyRey
 
