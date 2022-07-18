@@ -4,13 +4,13 @@
 ![image](https://user-images.githubusercontent.com/69511010/178117531-91117230-78a4-4d9e-ba08-b5f658bf50c7.png)
 
 
-I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Block Chain. :wink:
+I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and an Enthusiast about Block Chain. :wink:
  
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
  
- 👯 I’m looking to collaborate for a React and Node project **Doc App**.
+ 👯 I’m looking to collaborate for a React and Node project.
  
  🤔 I’m looking for help with Blockchain.
  
