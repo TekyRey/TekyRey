@@ -1,7 +1,7 @@
 ### Hey Rehema here 👋
 
 ---
-![image](https://user-images.githubusercontent.com/69511010/178117531-91117230-78a4-4d9e-ba08-b5f658bf50c7.png)
+![image](https://user-images.githubusercontent.com/69511010/180618363-193f64be-e3bd-4eec-adcd-96e46654ac57.png)
 
 
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and an Enthusiast about Block Chain. :wink:
