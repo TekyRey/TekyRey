@@ -49,8 +49,6 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TekyRey&show_icons=true&hide_border=true)
 
- <img src="https://cdn.dribbble.com/users/10971/screenshots/2876534/media/7f6fc1246c1033fbd077422271c40b19.gif" />
-
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/TekyRey)
 
